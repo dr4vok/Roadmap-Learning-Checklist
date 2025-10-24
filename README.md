@@ -26,7 +26,7 @@
 - [ ] [TutorialsPoint](https://tutorialspoint.com)
 
 **📚 Languages to Learn**
-- [ ] Python  
+- [X] Python  
 - [ ] JavaScript  
 - [ ] HTML  
 - [ ] CSS  
