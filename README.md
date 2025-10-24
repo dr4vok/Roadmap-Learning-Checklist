@@ -16,6 +16,7 @@
 
 **🎓 Courses**
 - [ ] [Cisco CCNA (Udemy)](https://www.udemy.com/course/cisco-ccna-icnd2-200-105-complete-course-sims-and-gns3/?couponCode=KEEPLEARNINGOCTA)
+      OR 
 - [ ] [Networking Fundamentals (YouTube)](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 ---
