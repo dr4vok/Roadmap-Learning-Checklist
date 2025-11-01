@@ -28,7 +28,7 @@
 **📚 Languages to Learn**
 - [X] Python  
 - [ ] JavaScript  
-- [ ] HTML  
+- [X] HTML  
 - [ ] CSS  
 
 **🧠 Project**
