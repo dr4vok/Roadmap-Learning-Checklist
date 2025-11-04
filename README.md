@@ -29,10 +29,10 @@
 - [X] Python  
 - [ ] JavaScript  
 - [X] HTML  
-- [ ] CSS  
+- [X] CSS  
 
 **🧠 Project**
-- [ ] Build a full website using Flask
+- [X] Build a full website using Flask
 
 **📘 Books**
 - [ ] *Black Hat Python*  
